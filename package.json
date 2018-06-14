@@ -1,0 +1,23 @@
+{
+  "name": "simple_form_with_sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "keywords": [],
+  "author": "Brook",
+  "license": "ISC",
+  "description": "simple sass experiment ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooktm/simple_form_sass_experiment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brooktm/simple_form_sass_experiment/issues"
+  },
+  "homepage": "https://github.com/brooktm/simple_form_sass_experiment#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
